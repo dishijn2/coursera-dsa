@@ -1,3 +1,4 @@
+#python3
 class Request:
     def __init__(self, arrival_time, process_time):
         self.arrival_time = arrival_time
